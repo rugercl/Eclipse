@@ -4,7 +4,7 @@
 <html>
 <head>
 	<meta charset="ISO-8859-1">
-		<!--Icono para la página-->   
+		<!--Icono para la pÃ¡gina-->   
         <link rel="icon" href="resources/img/icono.png" type="image/png">
         <link rel="stylesheet" href="resources/css/styles.css">
 
@@ -21,7 +21,8 @@
 		    <div class="col-md-6">
 			    <h2>Minimarket MiKasa.</h2>
 				<p>	Les da la Bienvenida, presentado en estos momentos de
-					Emergencia Sanitaria la solución para que te quedes en casa.
+					Emergencia Sanitaria la soluciÃ³n para que te quedes en casa,
+					y no te expongas..
 				</p>
 				<p>	
 					Brindandote para ello seguridad y rapidez te ofrecemos 
