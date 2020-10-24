@@ -1,0 +1,46 @@
+/*Selectores por etiquetas*/
+body
+{
+    font-family: verdana;
+    padding: 10px;
+}
+legend
+{
+    font-family: georgia;
+    text-decoration-line: underline;
+}
+footer,nav
+{
+    
+    background-color: rgb(49,71,79);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: whitesmoke;
+    text-align: center;
+    padding: 5px;
+}
+
+table
+{
+    width: 80%;
+    /*
+    Comentarios en Estilos
+    */
+    border-collapse: collapse;
+}
+th
+{
+    background-color: black; 
+    text-align: center;
+    color: whitesmoke;
+}
+th,td
+{
+    border:1px solid black;            
+    padding: 8px;
+}
+td
+{
+    text-align: left;
+}
+
+
